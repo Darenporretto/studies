@@ -21,7 +21,8 @@
 if (condition) {
     // Code to execute if the condition is true
 }
-//EXAMPLE: In this example, the if statement checks if the temperature is greater than 70. Since the condition is true, the message is printed.//
+//EXAMPLE: In this example, the if statement checks if the temperature is greater than 70. 
+//Since the condition is true, the message is printed.//
 let temperature = 75;
 
 if (temperature > 70) {
@@ -40,7 +41,8 @@ if (condition1) {
 } else if (condition2) {
     // Code to execute if condition2 is true
 }
-//EXAMPLE: Here, if the temperature is not above 95, the else-if condition checks if it's above 75, providing a different message based on the result.//
+//EXAMPLE: Here, if the temperature is not above 95, the else-if condition checks if it's above 75, 
+//providing a different message based on the result.//
 let temperature = 75;
 
 if (temperature > 95) {
@@ -88,7 +90,8 @@ switch (expression) {
     default:
         // Code to execute if expression does not match any cases
 }
-//EXAMPLE:In this example, the switch statement checks the value of day and executes the corresponding block of code. If day equals 3, it prints 'Wednesday'.//
+//EXAMPLE:In this example, the switch statement checks the value of day and executes the corresponding block of code. 
+//If day equals 3, it prints 'Wednesday'.//
 let day = 3;
 
 switch (day) {
